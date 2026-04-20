@@ -1,6 +1,6 @@
 # Class Pulse AI
 
-#  #Tech Stack
+### Tech Stack
 Next.js (App Router)
 TypeScript
 Tailwind CSS
